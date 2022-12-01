@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{d9af8339-d5ce-cb24-4c1d-25af00b8f45a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeFilePicker.Runtime", "NativeFilePicker.Runtime.csproj", "{14758e71-397b-0331-b75b-241f51614491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeFilePicker.Editor", "NativeFilePicker.Editor.csproj", "{225df41d-d1e0-7251-f568-32fec0fb95be}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{d9af8339-d5ce-cb24-4c1d-25af00b8f45a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d9af8339-d5ce-cb24-4c1d-25af00b8f45a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14758e71-397b-0331-b75b-241f51614491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14758e71-397b-0331-b75b-241f51614491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225df41d-d1e0-7251-f568-32fec0fb95be}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225df41d-d1e0-7251-f568-32fec0fb95be}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

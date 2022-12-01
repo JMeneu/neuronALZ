@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001094747363",
+    "firebase_url": "https://neuronalz-beta-cd43e-default-rtdb.firebaseio.com",
+    "project_id": "neuronalz-beta-cd43e",
+    "storage_bucket": "neuronalz-beta-cd43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001094747363:android:9cebe1cb68b4ae6b0e21d6",
+        "android_client_info": {
+          "package_name": "com.UPM.unity.NeuronAlz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001094747363-glg6ti9snkurikcp695tug0l32lutb6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1L8S0z-SuQ-YqBxjqU7BOj_IWVMx47Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001094747363-glg6ti9snkurikcp695tug0l32lutb6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

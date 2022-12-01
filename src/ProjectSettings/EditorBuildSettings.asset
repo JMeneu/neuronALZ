@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Login.unity
+    guid: c6d893995382b423fbc926ac644b7c16
+  - enabled: 1
+    path: Assets/Scenes/Menu/GameEnded.unity
+    guid: 35332ba2c38994cf4879e46aa142113d
+  - enabled: 1
+    path: Assets/Scenes/Menu/MenuGames_01.unity
+    guid: 92f3f7f50fb9c4198a69627a9733c00f
+  - enabled: 1
+    path: Assets/Scenes/Menu/MenuLevel.unity
+    guid: 9fe43889f4f104be8bf5c587a800a7ea
+  - enabled: 1
+    path: Assets/Scenes/Menu/MenuMedia.unity
+    guid: 133c656bfe3ea4eb6b1a6505000d8c51
+  - enabled: 1
+    path: Assets/Scenes/Menu/MenuTerapeuta.unity
+    guid: 11423fec545234081a32640565bfe914
+  - enabled: 1
+    path: Assets/Scenes/Menu/MenuTest.unity
+    guid: f5d6fe5da96cc4c3bbde4b3fdb71a5d1
+  - enabled: 1
+    path: Assets/Scenes/Menu/Sesiones.unity
+    guid: abcdc8e9c74d842d79add0be16d5c342
+  - enabled: 1
+    path: Assets/Scenes/Menu/Session_Mode.unity
+    guid: 12386296e473843f891616d5171878e7
+  - enabled: 1
+    path: Assets/Scenes/Menu/SignUp.unity
+    guid: f669c771453544dd394d7ad97c4f0746
+  - enabled: 1
+    path: Assets/Scenes/Menu/Splash.unity
+    guid: 2509ab1d269c14c1a90763c3ee91938f
+  - enabled: 1
+    path: Assets/Scenes/Games/Figuras.unity
+    guid: 502735ce12d074e4a8b2a30ad3cd1fc0
+  - enabled: 1
+    path: Assets/Scenes/Games/Laberinto.unity
+    guid: 033578734098f4a6b9ecf28dd0f11c3b
+  - enabled: 1
+    path: Assets/Scenes/Games/Puzzle.unity
+    guid: f3eaf17b5610146e4b95b17d4f62cdce
+  - enabled: 1
+    path: Assets/Scenes/Games/Restas.unity
+    guid: bd054c64b141b4f9f855abe050940fbc
+  - enabled: 1
+    path: Assets/Scenes/Games/Sumas.unity
+    guid: ed894062820be4522bacef4c52c41da5
+  - enabled: 1
+    path: "Assets/Scenes/Games/Tele\u0301fono.unity"
+    guid: 4e8fbd85236c943618dd6386cc0ec448
+  - enabled: 1
+    path: Assets/Scenes/Games/Vasos.unity
+    guid: 3a844b2b711c54466a762939a8660125
+  - enabled: 1
+    path: Assets/Scenes/Tests/TestDaltonismo.unity
+    guid: 9d235a476951243aead7087be35a108d
+  m_configObjects: {}
